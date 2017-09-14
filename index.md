@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/TimHamling/timhamling.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TimHamling/timhamling.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We are conducting a study on how people process and use product information on the Internet. You will be led to a set of brief simulated Internet sessions during which you will read a tutorial article, encounter commercial and social media messages, and browse products through a simulated Google search. Your task is to express your opinions about the products and their sponsors that you have encountered during the Internet sessions.
+By participating in the study, you will receive extra course credit and learn how marketing research on consumer behavior on the Internet is conducted. Information collected in the study will be kept strictly confidential and be used only for research purposes. This study does not involve any emotional, mental, or physical risk or safety concerns.
+For any questions or further information about the study, contact Professor D. H. Lee at dongh.lee@manhattan.edu.
+Participation in this study is voluntary. Based on the above information, you may agree to participate in the study or decline to participate in the study without any penalty.
+If you agree, please enter your name and the course number where you volunteered to participate in the study in the box below (e.g., Jane Austin, MKTG403-2).
+If you decline, you may now log out of this site. Thank you.
